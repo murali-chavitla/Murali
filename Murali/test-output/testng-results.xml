@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Swag Labs]]>
+    </line>
+    <line>
+      <![CDATA[Demo Task 1 Executed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-05-05T12:11:04 IST" name="Default suite" finished-at="2025-05-05T12:11:20 IST" duration-ms="15891">
+    <groups>
+    </groups>
+    <test started-at="2025-05-05T12:11:04 IST" name="Default test" finished-at="2025-05-05T12:11:20 IST" duration-ms="15891">
+      <class name="Demo.Task1_Test">
+        <test-method signature="demoTask1()[pri:0, instance:Demo.Task1_Test@51e69659]" started-at="2025-05-05T12:11:04 IST" name="demoTask1" finished-at="2025-05-05T12:11:20 IST" duration-ms="15796" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Swag Labs]]>
+            </line>
+            <line>
+              <![CDATA[Demo Task 1 Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demoTask1 -->
+      </class> <!-- Demo.Task1_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
